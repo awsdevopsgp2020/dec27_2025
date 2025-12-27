@@ -1,1 +1,3 @@
 this is github session for DVCS
+
+snehal and swati working on Java
